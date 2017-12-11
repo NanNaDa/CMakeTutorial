@@ -1,4 +1,4 @@
-# A Basic Starting Point (Step1)
+# A Basic Starting Point (Step 1)
 
 The most basic project is an executable built from source code files. For simple projects a two line CMakeLists.txt file is all that is required. This will be the starting point for our tutorial. The CMakeLists.txt file looks like:
 
